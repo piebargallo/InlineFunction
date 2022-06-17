@@ -54,8 +54,10 @@ inline void operation :: product() {
 
 // Inline division
 inline void operation :: division() {
+	
 	div= a / b;
 	cout<<"Division of two numbers: "<< a / b <<"\n" ;
+
 }
 
 // Driver program
